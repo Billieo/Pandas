@@ -2,17 +2,23 @@
 
 ## Preparing data 
 -  Read and clean several CSV files for analysis.
+-  
+![image](https://user-images.githubusercontent.com/80086711/137604977-451a296c-6a88-42a4-81c0-7312f6f2fe71.png)
+
 
 ## Conduct Quantitative Analysis
 - Analyze the data to see if any of the portfolios outperform the stock market.
 
+![image](https://user-images.githubusercontent.com/80086711/137604988-b89849bb-b68a-4de1-b391-35fa0a4bb76f.png)
+
+
 ## Performance Analysis
 - Calculated and plot daily returns of all portfolios and also Calculated and plot cumulative returns for all portfolios.
+- 
+![image](https://user-images.githubusercontent.com/80086711/137605049-56798518-12fa-4a83-91e6-f7dae4b6584f.png)
+
 
 ## Risk Analysis
 - Create a box plot for each of the returns, Calculated the standard deviation for each portfolio. Determine which portfolios are riskier than the S&P 500. Calculate the Annualized Standard Deviation.
 
-## performed Rolling Statistics Analysis 
-- Calculate and plot the rolling standard deviation for all portfolios using a 21-day window.
-- Calculate and plot the correlation between each stock to determine which portfolios may mimick the S&P 500.
-- Choose one portfolio, then calculate and plot the 60-day rolling beta between it and the S&P 500.
+![image](https://user-images.githubusercontent.com/80086711/137605018-92c9fe8a-d84b-46ff-850d-3fa7fa82fbe8.png)
